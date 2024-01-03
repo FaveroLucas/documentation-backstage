@@ -20,21 +20,21 @@ nav:
       - Support and community: 'overview/support.md'
       - Glossary: 'overview/glossary.md'
       - Logo assets: 'overview/logos.md'
-  - Getting Started:
-      - Getting Started: 'getting-started/index.md'
-      - Create an App: 'getting-started/create-an-app.md'
-      - App configuration:
-          - Configuring App with plugins: 'getting-started/configure-app-with-plugins.md'
-          - Customize the look-and-feel of your App: 'getting-started/app-custom-theme.md'
-      - Keeping Backstage Updated: 'getting-started/keeping-backstage-updated.md'
-      - Key Concepts: 'getting-started/concepts.md'
-      - Project Structure: 'getting-started/project-structure.md'
-  - Local Development:
-      - CLI:
-          - Overview: 'local-dev/cli-overview.md'
-          - Build System: 'local-dev/cli-build-system.md'
-          - Commands: 'local-dev/cli-commands.md'
-      - Linking in Local Packages: 'local-dev/linking-local-packages.md'
+  # - Getting Started:
+  #     - Getting Started: 'getting-started/index.md'
+  #     - Create an App: 'getting-started/create-an-app.md'
+  #     - App configuration:
+  #         - Configuring App with plugins: 'getting-started/configure-app-with-plugins.md'
+  #         - Customize the look-and-feel of your App: 'getting-started/app-custom-theme.md'
+  #     - Keeping Backstage Updated: 'getting-started/keeping-backstage-updated.md'
+  #     - Key Concepts: 'getting-started/concepts.md'
+  #     - Project Structure: 'getting-started/project-structure.md'
+  # - Local Development:
+  #     - CLI:
+  #         - Overview: 'local-dev/cli-overview.md'
+  #         - Build System: 'local-dev/cli-build-system.md'
+  #         - Commands: 'local-dev/cli-commands.md'
+  #     - Linking in Local Packages: 'local-dev/linking-local-packages.md'
   # - Core Features:
   #     - Software Catalog:
   #         - Overview: 'features/software-catalog/index.md'
