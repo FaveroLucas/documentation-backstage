@@ -10,6 +10,6 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
-  type: documentationdsffdafasd
+  type: documentation
   owner: builders
   lifecycle: experimental
