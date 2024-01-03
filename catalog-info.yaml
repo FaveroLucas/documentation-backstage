@@ -12,3 +12,4 @@ metadata:
 spec:
   type: library
   owner: builders
+  lifecycle: experimental
